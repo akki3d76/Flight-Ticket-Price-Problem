@@ -7,6 +7,7 @@ Flight ticket prices can be something hard to guess, today we might see a price,
 
 ## Data
 We are given prices of flight tickets for various airlines along with between the months of March and June of 2019 and between various cities.
+
 Size of training set:  **10683**  records
 Size of test set:  **2671**  records
 
@@ -19,4 +20,4 @@ Submissions are evaluated on Root-Mean-Squared-Log-Error (RMSLE) error
 ## LeaderBoard Results
 ![
 ](https://lh3.googleusercontent.com/TSPu-hJbRzV64cW5zIN3VVh8HQQZVTEr3gyuWoZ9HeTyv_HmIvNqysb63tAYubAYDZQXI9W3aIun "leaderboard score")
-# 67 Out of 360+ participants
+## 67 Out of 360+ participants
